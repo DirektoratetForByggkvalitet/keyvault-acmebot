@@ -39,7 +39,7 @@ Key Vault Acmebot allows for secure and centralized management of ACME certifica
 | :---: | :---: | :---: |
 | <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDirektoratetForByggkvalitet%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.cn/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDirektoratetForByggkvalitet%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDirektoratetForByggkvalitet%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> |
 
-Learn more at https://github.com/DirektoratetForByggkvalitet/keyvault-acmebot/wiki/Getting-Started
+Learn more at https://github.com/shibayan/keyvault-acmebot/wiki/Getting-Started
 
 ## Sponsors
 
@@ -55,4 +55,4 @@ Thank you for supporting our development. Are you interested in special support?
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/shibayan/keyvault-acmebot/blob/master/LICENSE)
+This project is licensed under the [Apache License 2.0](https://github.com/DirektoratetForByggkvalitet/keyvault-acmebot/blob/master/LICENSE)
