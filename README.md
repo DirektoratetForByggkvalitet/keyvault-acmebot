@@ -1,11 +1,8 @@
 # Key Vault Acmebot
 
-![Build](https://github.com/shibayan/keyvault-acmebot/workflows/Build/badge.svg)
-[![Release](https://badgen.net/github/release/shibayan/keyvault-acmebot)](https://github.com/shibayan/keyvault-acmebot/releases/latest)
-[![License](https://badgen.net/github/license/shibayan/keyvault-acmebot)](https://github.com/shibayan/keyvault-acmebot/blob/master/LICENSE)
-[![Terraform Registry](https://badgen.net/badge/terraform/registry/5c4ee5)](https://registry.terraform.io/modules/shibayan/keyvault-acmebot/azurerm/latest)
-
 This application automates the issuance and renewal of ACME SSL/TLS certificates. The certificates are stored inside Azure Key Vault. Many Azure services such as Azure App Service, Application Gateway, CDN, etc. are able to import certificates directly from Key Vault.
+
+This project is forked from [Key Vault Acmebot by shibayan[(https://github.com/shibayan/keyvault-acmebot)
 
 ## Links
 
@@ -40,9 +37,9 @@ Key Vault Acmebot allows for secure and centralized management of ACME certifica
 
 | Azure (Public) | Azure China | Azure Government |
 | :---: | :---: | :---: |
-| <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshibayan%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.cn/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshibayan%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshibayan%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> |
+| <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDirektoratetForByggkvalitet%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.cn/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDirektoratetForByggkvalitet%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> | <a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDirektoratetForByggkvalitet%2Fkeyvault-acmebot%2Fmaster%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a> |
 
-Learn more at https://github.com/shibayan/keyvault-acmebot/wiki/Getting-Started
+Learn more at https://github.com/DirektoratetForByggkvalitet/keyvault-acmebot/wiki/Getting-Started
 
 ## Sponsors
 
