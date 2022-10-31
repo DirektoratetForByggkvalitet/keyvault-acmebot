@@ -2,7 +2,7 @@
 
 This application automates the issuance and renewal of ACME SSL/TLS certificates. The certificates are stored inside Azure Key Vault. Many Azure services such as Azure App Service, Application Gateway, CDN, etc. are able to import certificates directly from Key Vault.
 
-This project is forked from [Key Vault Acmebot by shibayan[(https://github.com/shibayan/keyvault-acmebot)
+This project is forked from [Key Vault Acmebot by shibayan](https://github.com/shibayan/keyvault-acmebot)
 
 ## Links
 
